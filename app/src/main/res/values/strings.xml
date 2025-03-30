@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="appBtnSet">Analisar</string>
+    <string name="appBtmReset">Limpar</string>
+    <string name="appBtnCalcularIMC">CalcularIMC</string>
+    <string name="fechar">fechar</string>
+    <string name="Pontos">...</string>
+    <color name="VerdeEscuro">#006341</color>
+    <color name="VerdeClaro">#00A859</color>
+    <color name="CinzaEscuro">#4D4D4D</color>
+    <color name="CinzaClaro">#B3B3B3</color>
+</resources>
